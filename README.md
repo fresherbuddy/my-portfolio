@@ -4,8 +4,8 @@ Welcome to my personal portfolio! This site showcases my work, skills, and proje
 
 🚀 Features
 
-About Me section
-Responsive design
+^About Me section
+^Responsive design
 
 🛠 Tech Stack
 HTML / CSS / JavaScript
